@@ -21,7 +21,7 @@ public class Ejemplo03 {
         
         int variable1;
         int variable2 = 10;
-        
+        int valorinicial=10;
         // Tipo de datos Double - Decimal
         
         double variable3;
